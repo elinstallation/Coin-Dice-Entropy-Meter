@@ -2,6 +2,11 @@
 
 An interactive dashboard for visualizing Shannon entropy across biased coins and loaded dice, built with Python and Matplotlib.
 
+## Demo
+
+https://github.com/user-attachments/assets/0f79264e-4dca-48b2-bcbf-b384c7e2098c
+
+
 ## What is Shannon Entropy?
 
 Shannon entropy measures **uncertainty** in a probability distribution. The formula is:
